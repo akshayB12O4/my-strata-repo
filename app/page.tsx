@@ -10,10 +10,10 @@ export default function Home() {
         <nav>
           <ul className="flex space-x-6">
             <li>
-              <Link href="/" className="hover:underline">Home</Link>
+              <a href="/" className="hover:underline">Home</a>
             </li>
             <li>
-              <Link href="/contact" className="hover:underline">Contact</Link>
+              <a href="/contact" className="hover:underline">Contact</a>
             </li>
           </ul>
         </nav>
