@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/Link";
 import Image from "next/image";
 
 export default function Home() {
@@ -10,10 +10,14 @@ export default function Home() {
         <nav>
           <ul className="flex space-x-6">
             <li>
-              <a href="/" className="hover:underline">Home</a>
+            <Link href = "/">
+              <a>Home</a>
+            </Link>
             </li>
             <li>
-              <a href="page/contact.tsx" className="hover:underline">Contact</a>
+            <Link href = "/contact">
+              <a>Contact</a>
+            </Link>
             </li>
           </ul>
         </nav>
