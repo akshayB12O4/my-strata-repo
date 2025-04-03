@@ -13,7 +13,7 @@ export default function Home() {
               <a href="/" className="hover:underline">Home</a>
             </li>
             <li>
-              <a href="./app/contact.tsx" className="hover:underline">Contact</a>
+              <a href="contact.tsx" className="hover:underline">Contact</a>
             </li>
           </ul>
         </nav>
