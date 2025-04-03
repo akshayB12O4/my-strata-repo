@@ -15,7 +15,7 @@ export default function Home() {
             </Link>
             </li>
             <li>
-            <Link href = "/contact">
+            <Link href = "contact.html">
               <a>Contact</a>
             </Link>
             </li>
