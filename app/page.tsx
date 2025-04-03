@@ -21,7 +21,7 @@ export default function Home() {
         <p className="text-lg text-gray-700 text-center sm:text-left">
           We provide professional strata management services to ensure your property is well-maintained and efficiently managed.
         </p>
-        <Image src="/building.jpg" alt="Strata Building" width={600} height={400} className="rounded-lg shadow-md" />
+        <Image src="/strata.jpg" alt="Strata Building" width={600} height={400} className="rounded-lg shadow-md" />
         <a href="#contact" className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700">Get in Touch</a>
       </main>
 
