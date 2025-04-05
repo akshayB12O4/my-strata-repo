@@ -37,6 +37,10 @@ export default function Home() {
             Contact Us
           </button>
         </Link>
+        <p className="text-lg text-center sm:text-left max-w-xl">
+          Look at Strata Management Legislations from NSW Government.
+        </p>
+        <a href = "/stratalaw.pdf">Read Now!</a>
       </main>
 
       {}
