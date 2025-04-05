@@ -41,7 +41,7 @@ export default function Home() {
           Look at Strata Management Legislations from NSW Government.
         </p>
         <Link href="/stratalaw.pdf" target="_blank">
-          <button className="mt-4 px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700">
+          <button className="mt-4 px-6 py-3 bg-green-600 text-white rounded-md hover:bg-green-700">
             Read Now!
           </button>
         </Link>
