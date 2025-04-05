@@ -40,7 +40,7 @@ export default function Home() {
         <p className="text-lg text-center sm:text-left max-w-xl">
           Look at Strata Management Legislations from NSW Government.
         </p>
-        <a href = "/stratalaw.pdf">Read Now!</a>
+        <a href = "/stratalaw.pdf" target="_blank">Read Now!</a>
       </main>
 
       {}
